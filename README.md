@@ -5,7 +5,7 @@ This project is the solution to the [Dining Philosophers](https://en.wikipedia.o
 
 ![Dining Philosophers](https://upload.wikimedia.org/wikipedia/commons/7/7b/An_illustration_of_the_dining_philosophers_problem.png "Dining Philosophers")
 
-By Benjamin D. Esham / Wikimedia Commons, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=56559
+Image by Benjamin D. Esham / Wikimedia Commons, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=56559
 
 
 ## The Problem
