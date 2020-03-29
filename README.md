@@ -3,7 +3,7 @@
 ## About
 This project is the solution to the [Dining Philosophers](https://en.wikipedia.org/wiki/Dining_philosophers_problem) problem. It was assigned as a laboratory assignment for a course (COE628 - Operating Systems) I am currently taking at Ryerson University. 
 
-![Dining Philosophers](https://en.wikipedia.org/wiki/Dining_philosophers_problem#/media/File:An_illustration_of_the_dining_philosophers_problem.png "Dining Philosophers")
+![Dining Philosophers](https://upload.wikimedia.org/wikipedia/commons/7/7b/An_illustration_of_the_dining_philosophers_problem.png "Dining Philosophers")
 
 By Benjamin D. Esham / Wikimedia Commons, CC BY-SA 3.0, https://commons.wikimedia.org/w/index.php?curid=56559
 
